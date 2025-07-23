@@ -32,7 +32,7 @@
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/goutam-das-40a375254/)
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=instagram)](https://instagram.com/gdas04027)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)]([https://yourportfolio.com](https://www.goutamdas.live/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://www.goutamdas.live/)
 
 ---
 
